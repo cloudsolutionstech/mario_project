@@ -164,11 +164,11 @@ Clone the github repo by running the following commands ---->
     ```
 3. Clone the Git repository into the super_mario directory
     ```bash
-    git clone https://github.com/oma/super_mario_project.git
+    git clone https://github.com/cloudsolutionstech/mario_project.git
     ```
-4. Change to the super_project directory    
+4. Change to the mario_project directory   
     ```bash
-    cd super_mario_project
+    cd mario_project
     ```
 5. Change to the kubectl-terraform directory    
     ```bash
